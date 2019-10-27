@@ -9,3 +9,5 @@ You can run this by
 ```
 make
 ```
+
+**This sample should be updated if the typescript compiler is improved and some changes are needed. For example, the reference comment can be omitted in the future.**
